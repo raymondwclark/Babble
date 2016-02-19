@@ -1,0 +1,16 @@
+PODS:
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - Socket.IO-Client-Swift (3.0.2)
+
+DEPENDENCIES:
+  - JSQMessagesViewController
+  - Socket.IO-Client-Swift (~> 3.0.1)
+
+SPEC CHECKSUMS:
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  Socket.IO-Client-Swift: c68c105ee88d03d4610be8764f2e13ca2908de63
+
+COCOAPODS: 0.39.0
